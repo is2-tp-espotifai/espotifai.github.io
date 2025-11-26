@@ -22,9 +22,8 @@ title: Espotifai Documentation
 email: is2.espotifai@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Espotifai project documentation.
-baseurl: "" # the subpath of your site, e.g. /blog
-domain: espotifai-docs.github.io 
-url: "https://espotifai-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: espotifai.github.io
+url: "https://espotifai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  is2-tp-espotifai
 
