@@ -20,3 +20,4 @@ Además, nos hubiese encantado añadir muchas de las funcionalidades opcionales 
 - **Actualización de nombre de usuario**: Al modificar el nombre de usuario, no se actualiza en el resto de la aplicación hasta reiniciar la sesión.
 - **Login con Google con emulador**: La funcionalidad de login federado no funciona al levantar la app con un emulador.
 - **Playlists repetidas**: Ocasionalmente, al crear una playlist esta se crea duplicada, no llegamos a tiempo a descubrir el por qué.
+- **Shuffle inconsistente**: El botón de shuffle funciona desde algunas vistas y desde otras no.
